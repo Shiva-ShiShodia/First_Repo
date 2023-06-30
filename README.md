@@ -1,7 +1,9 @@
 # First_Repo/Mega_Mart
 
-This project contains the visual report of Sales and Revenue of a firm named - Mega-Mart...
+This project contains the visual report of Sales and Revenue of a firm named - Mega-Mart .
 
-report.pbix contains the dasboard report .
+report.pbix contains the dashboard report.
 
-Other files contains raw data used in this project.
+Other files contain raw data used in this project.
+
+Reports are interactive and easily to navigate.
