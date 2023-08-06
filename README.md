@@ -8,4 +8,4 @@ report.pbix contains the dashboard report.
 
 Other files contain raw data used in this project.
 
-Reports are interactive and easy to navigate.
+Reports are interactive & easy to navigate.
